@@ -44,7 +44,7 @@ Read the Technical Paper : https://www.jetir.org/papers/JETIR2402304.pdf
 <br>
 Journal link : https://www.jetir.org/view?paper=JETIR2402304
 <br>
-![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/per%20Certificates/Akash%20Sahu.jpg)
+![Certificate](https://github.com/KulalaMurari/Forensic-Face-Sketch-and-Recognition/blob/main/Technical%20Paper%20Certificates/K.Murari.png)
  
 
 <h3> FEEL FREE TO USE THE CODE ^_~</h3>
