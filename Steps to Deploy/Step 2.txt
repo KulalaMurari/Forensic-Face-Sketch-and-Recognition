@@ -1,0 +1,14 @@
+This part 2 of the project is been build using JAVA Maven and AWS for Deep learning
+2. This part requires you to have AWS account with Credit Card been added to be activated
+3. Create a AWS Free Tier account by adding in your Credit Card
+4. Create a IAM user profile for the JAVA (https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/get-started.html)
+5. Add S3 and Rekognition Full Access
+4. Install AWS CLI on Windows (https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html)
+5. Run "aws configure" in CMD
+5. Create a s3 Bucket 
+6. Now GoTo File > Open Project > ThirdEye_FaceMatch
+7. Create a S3 Bucket on the AWS console
+8. Create a collection in s3 using the "collection_create.java" file
+9. Add images to the collection using the "collection_add_image.java" file
+10. Enter the S3 Bucket name and collection details in the "collection_search_face.java" file
+11. Run the Project (F6)

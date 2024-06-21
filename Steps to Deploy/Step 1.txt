@@ -1,0 +1,18 @@
+1. This part 1 of the project is been build using JAVA FX
+2. Download Scene Builder (https://gluonhq.com/products/scene-builder/)
+3. GoTo tools > options > Java > JavaFx
+4. Browse for the Scene Builder Directory and select the directory from C:\ProgramFiles
+5. Now GoTo File > Open Project > ThirdEye v2
+6. Now under projects click on "ThirdEye v2 > Libraries" Right Click and select "Add Jar"
+7. Browse to "ThirdEye v2 > lib" and select all and open
+8. Download and Install SQLite Browser (https://sqlitebrowser.org/dl/)
+9. Open the "login.sqlite" file from the "ThirdEye v2" Folder
+10. Add your Own Creds this is Important to get the OTP to login
+11. Turn On Less secure for you Gmail (https://myaccount.google.com/lesssecureapps)
+12. Now go to NetBeans, under projects click on "ThirdEye v2 > Source Package > thirdeye.v2" Double click on Login_screenController.java
+13. On Line 144, Enter your GMail Creds to send OTP
+14. Run the Project (F6)
+15. Enter the Credential from DB Lite
+16. Enter the OTP received to the email 
+17. Select Create Sketch and your are good to go 
+18. Change the File Directory on line 508 of file "dashboard_controller.java"!!!!!

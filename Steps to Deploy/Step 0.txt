@@ -1,0 +1,8 @@
+1. Download the Source Code 
+2. Download and Install the Java JDK 8 (https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
+3. Download the NetBeans Installer  (version-12.2)
+3. Install and Open NetBeans
+4. GoTo Tools > Plugin > Available Plugin 
+5. Search for "Java FX" and check "Gluon Plugin" & "JavaFx implementation for Windows" then click on Install
+6. Now search for "Maven" and check "Gradle" then click on Install
+7. Restart NetBeans
